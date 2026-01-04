@@ -49,6 +49,22 @@ Live Demo: [elijah.macz.tech](http://elijah.macz.tech)
     *   Simply open `index.html` in your browser.
     *   Or use a simple static server: `python3 -m http.server`
 
+## 📝 Maintenance
+
+### How to Update your CV
+
+To upload a new version of your resume:
+
+1.  **Rename** your new PDF file to `resume.pdf`.
+2.  **Replace** the existing file at `assets/resume.pdf` with your new one.
+3.  **Push changes** to GitHub:
+    ```bash
+    git add assets/resume.pdf
+    git commit -m "Update resume"
+    git push origin main
+    ```
+    Your website will automatically serve the new file.
+
 ## 📬 Contact
 
 *   **Email**: [kasumbaelijah8402@gmail.com](mailto:kasumbaelijah8402@gmail.com)
