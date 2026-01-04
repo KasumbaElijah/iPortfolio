@@ -7,7 +7,7 @@ A modern, minimalist developer portfolio website focused on speed, clean typogra
 This is a personal portfolio website designed to showcase my projects and skills as a **Software Developer** and **IT Professional**. 
 The site is built with a "less is more" philosophy, eschewing heavy frameworks for raw performance and semantic HTML5.
 
-**Live Demo:** [elijah.macz.tech](http://elijah.macz.tech) (or your GitHub Pages URL)
+Live Demo: [elijah.macz.tech](http://elijah.macz.tech)
 
 ## ✨ Features
 
